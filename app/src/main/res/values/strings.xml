@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="PitID">Enter Pit ID: </string>
+    <string name="PitType">Enter Pit Type: </string>
+    <string name="ButtonSave">Save</string>
+    <string name="ButtonCancel">Cancel</string>
+    <string name="PitTypeP5">P5</string>
+    <string name="PitTypeP6">P6</string>
+    <string name="PitTypeP8">P8</string>
+    <string name="PitTypeP9">P9</string>
+    <string name="PitTypeManhole">Manhole</string>
+    <string name="feedbacktype">Select Type of Pit</string>
+
+</resources>

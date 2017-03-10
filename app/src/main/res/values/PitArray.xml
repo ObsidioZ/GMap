@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="PitTypesArray">
+        <item>@string/PitTypeP5</item>
+        <item>@string/PitTypeP6</item>
+        <item>@string/PitTypeP8</item>
+        <item>@string/PitTypeP9</item>
+        <item>@string/PitTypeManhole</item>
+    </string-array>
+</resources>
